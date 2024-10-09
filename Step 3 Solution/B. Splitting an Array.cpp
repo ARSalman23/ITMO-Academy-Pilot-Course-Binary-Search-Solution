@@ -1,5 +1,3 @@
-/// Abdur Rahman Salman ///
-
 #include<bits/stdc++.h>
 using namespace std;
 
