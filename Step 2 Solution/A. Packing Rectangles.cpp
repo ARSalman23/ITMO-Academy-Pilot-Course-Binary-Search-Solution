@@ -5,6 +5,7 @@ using namespace std;
 #define int long long
 const int MX_R = 1e14;
 int w, h, n;
+
 bool give_me(int mid)
 {
     int a1 = mid / w;
